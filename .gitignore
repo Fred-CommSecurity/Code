@@ -1,0 +1,10 @@
+# Ignore the my_IP_Addresses.py file
+my_IP_Addresses.py
+
+# Optional: Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Optional: Ignore environment directories
+.env/
+venv/
